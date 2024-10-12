@@ -24,8 +24,16 @@ Antes de comenzar, asegúrate de tener:
 ### 1.1 Configurar el proyecto Maven
 
   1. Dentro de tu repositorio de plantilla, crea la siguiente estructura de carpetas:
-```bash
-tarea1-plantilla-java/ ├── src/ │ ├── main/ │ │ └── java/ │ │ └── App.java │ └── test/ │ └── java/ │ └── AppTest.java └── pom.xml
+```
+tarea1-plantilla-java/
+├── src/
+│ ├── main/
+│ │ └── java/
+│ │ └── App.java
+│ └── test/
+│ └── java/
+│ └── AppTest.java
+└── pom.xml
 ```
 
 ---
